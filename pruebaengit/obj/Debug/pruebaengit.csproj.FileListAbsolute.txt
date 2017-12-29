@@ -1,0 +1,9 @@
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\bin\Debug\pruebaengit.exe.config
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\bin\Debug\pruebaengit.exe
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\bin\Debug\pruebaengit.pdb
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\obj\Debug\pruebaengit.csprojResolveAssemblyReference.cache
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\obj\Debug\pruebaengit.Form1.resources
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\obj\Debug\pruebaengit.Properties.Resources.resources
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\obj\Debug\pruebaengit.csproj.GenerateResource.Cache
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\obj\Debug\pruebaengit.exe
+C:\Users\LEONEL\Desktop\c#\pruebaengit\pruebaengit\obj\Debug\pruebaengit.pdb
